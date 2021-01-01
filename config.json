@@ -1,0 +1,14 @@
+{
+  "server": {
+    "host": "mc.hypixel.net",
+    "port": 25565
+  },
+  "minecraft": {
+    "username": "",
+    "password": ""
+  },
+  "discord": {
+    "token": "",
+    "channel": "794051609532432384"
+  }
+}
